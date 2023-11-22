@@ -4,5 +4,12 @@ body {
 }
 
 h1 {
-    color:red;
+    background-color:red;
+    }
+
+h2 {
+    background-color:cyan;
+    }
+h3 {
+    background-color:orange;
     }
