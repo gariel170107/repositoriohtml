@@ -11,5 +11,9 @@ h2 {
     background-color:cyan;
     }
 h3 {
+    border-radius: 2px 3px;
+    border-radius:2px 3px 3px 2px;
+    border-top-right-bottom-left-radius:2px;
     background-color:orange;
+    
     }
