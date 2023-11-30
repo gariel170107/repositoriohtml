@@ -11,8 +11,9 @@ h2 {
     color:cyan;
     }
 #circulo {
-    margin: 100px 40px;
+    background-color:white;
+    margin: 70px 40px;
     border: 6px solid green;
     border-radius: 70px;
-    background-color: white;
+    
     }
